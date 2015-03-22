@@ -1,0 +1,14 @@
+What Sunblock Should I Use? is our idea for Global Datafest 2015.
+
+It's an Android app that answers the simple question, what sunblock should I use? This is a list of feature the app has:
+
+1. Recommended SPF level
+2. Recommended protective gear
+3. Push Notification reminding you to protect your skin
+
+What Sunblock Should I Use? has some smarts, including using your location (connectivity required) and surrounding light intensity (light sensor needed, most mobile devices have that) to guess if you have been indoor or outdoor, and switfly prompts you to take care of your skin.
+
+We have a web app online here: http://whatsunblockshouldiuse.eu-gb.mybluemix.net/
+
+Read more about the project here: https://sites.google.com/a/datafest.net/globalurbandatafest/projects/whatsunblockshouldiuse1
+
